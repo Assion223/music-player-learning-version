@@ -1,0 +1,1 @@
+一个基于html+css+JavaScript实现的网页音乐播放器，音乐链接数据用的json存储
